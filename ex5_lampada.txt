@@ -1,0 +1,12 @@
+Descobriria utilizando o processo de conversão de energia elétrica, fazendo com que a lâmpada ficasse quente
+
+Primeiramente deixaria o primeiro interruptor (Digamos que 1) ligado por um período de tempo de alguns minutos
+
+Após isso ligaria o segundo interruptor (2) e assim iria até uma das salas
+
+Então:
+    Caso a lâmpada estivesse quente, seria o primeiro interruptor
+    Se estivesse acesa, seria o segundo
+    Caso estivesse apagada e fria, então seria o terceiro
+
+Assim, seria possível descobrir qual a sequência em apenas uma ida até as salas.
